@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Soumyajit Khan
 **A passionate MERN Developer | Data Analyst**
 
-Email Me 👉 ✉️ **contact@soumyajit.site** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **reach@devsoumyajit.in** For Collaboration/Project or Anything Else. 😊😊
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@soumyajit.site) 
